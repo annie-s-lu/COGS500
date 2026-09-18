@@ -1,0 +1,8 @@
+-O
+url = "https://bitbucket.org/dpat/neuro4rii/raw/main/bash_scripts/check_files1.sh"
+-O
+url = "https://bitbucket.org/dpat/neuro4rii/raw/main/bash_scripts/check_files2.sh"
+-O
+url = "https://bitbucket.org/dpat/neuro4rii/raw/main/bash_scripts/check_files3.sh"
+-O
+url = "https://bitbucket.org/dpat/neuro4rii/raw/main/bash_scripts/check_files4.sh"
